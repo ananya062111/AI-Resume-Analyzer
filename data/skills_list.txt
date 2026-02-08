@@ -1,0 +1,164 @@
+python
+java
+javascript
+typescript
+c++
+c#
+ruby
+php
+swift
+kotlin
+go
+rust
+react
+angular
+vue.js
+node.js
+django
+flask
+spring
+express.js
+html
+css
+sql
+nosql
+mongodb
+postgresql
+mysql
+sqlite
+redis
+aws
+azure
+gcp
+docker
+kubernetes
+jenkins
+git
+github
+gitlab
+ci/cd
+devops
+machine learning
+deep learning
+artificial intelligence
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+data analysis
+data visualization
+data science
+big data
+hadoop
+spark
+tableau
+power bi
+excel
+agile
+scrum
+kanban
+jira
+confluence
+rest api
+graphql
+soap
+microservices
+api development
+linux
+unix
+windows
+bash
+powershell
+shell scripting
+networking
+security
+cybersecurity
+cloud computing
+serverless
+lambda
+ec2
+s3
+rds
+dynamodb
+elasticsearch
+kafka
+rabbitmq
+testing
+unit testing
+integration testing
+selenium
+jest
+junit
+pytest
+communication
+leadership
+problem solving
+teamwork
+project management
+time management
+critical thinking
+nlp
+natural language processing
+computer vision
+opencv
+react native
+flutter
+android
+ios
+swift
+objective-c
+kotlin
+firebase
+mongodb atlas
+postgres
+mysql
+oracle
+sql server
+blockchain
+solidity
+ethereum
+web3
+smart contracts
+sass
+less
+bootstrap
+tailwind css
+material ui
+redux
+vuex
+next.js
+nuxt.js
+gatsby
+webpack
+babel
+npm
+yarn
+terraform
+ansible
+puppet
+chef
+prometheus
+grafana
+datadog
+splunk
+apache
+nginx
+tomcat
+websockets
+grpc
+oauth
+jwt
+authentication
+authorization
+encryption
+https
+ssl/tls
+penetration testing
+ethical hacking
+vulnerability assessment
+soc
+siem

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Analysis Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Resume Analysis Results</h1>
+            <a href="/" class="btn-secondary">Analyze Another Resume</a>
+        </header>
+
+        <main>
+            <div class="result-card">
+                <h2>ATS Score: {{ ats_score }}%</h2>
+                <div class="progress-bar">
+                    <div class="progress" style="width: {{ ats_score }}%"></div>
+                </div>
+            </div>
+
+            <div class="result-card">
+                <h2>Extracted Skills</h2>
+                <div class="skills-container">
+                    {% for skill in skills %}
+                    <span class="skill-badge">{{ skill }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="result-card">
+                <h2>Suggestions</h2>
+                <ul>
+                    {% for suggestion in suggestions %}
+                    <li>{{ suggestion }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="result-card">
+                <h2>Matching Jobs</h2>
+                {% for job in matching_jobs %}
+                <div class="job-card">
+                    <h3>{{ job.title }}</h3>
+                    <p>Company: {{ job.company }}</p>
+                    <p>Location: {{ job.location }}</p>
+                    <p>Match: {{ job.match_percentage }}%</p>
+                </div>
+                {% endfor %}
+            </div>
+        </main>
+    </div>
+</body>
+</html>

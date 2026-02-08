@@ -1,0 +1,21 @@
+title,company,location,skills,description
+Software Engineer,Tech Corp,San Francisco CA,python,javascript,react,sql,git,Develop scalable web applications
+Senior Python Developer,Python Solutions,New York NY,python,django,flask,postgresql,docker,Lead backend development team
+Full Stack Developer,Web Innovations,Austin TX,javascript,react,node.js,mongodb,express,Build end-to-end web solutions
+Data Scientist,Data Analytics Inc,Boston MA,python,machine learning,pandas,tensorflow,sql,Analyze large datasets and build ML models
+DevOps Engineer,Cloud Systems,Seattle WA,aws,docker,kubernetes,jenkins,linux,Automate deployment and infrastructure
+Frontend Developer,Design Studio,Los Angeles CA,javascript,react,html,css,typescript,Create responsive user interfaces
+Backend Developer,API Solutions,Chicago IL,python,django,rest api,postgresql,redis,Design and implement REST APIs
+Machine Learning Engineer,AI Labs,San Francisco CA,python,tensorflow,pytorch,machine learning,deep learning,Build and deploy ML models
+Cloud Architect,Enterprise Cloud,Dallas TX,aws,azure,kubernetes,terraform,docker,Design cloud infrastructure solutions
+Mobile Developer,App Creators,Miami FL,swift,kotlin,react,firebase,ios,Develop mobile applications for iOS and Android
+Data Engineer,Big Data Corp,Denver CO,python,spark,hadoop,kafka,sql,Build data pipelines and ETL processes
+UI/UX Designer,Creative Agency,Portland OR,figma,adobe xd,html,css,javascript,Design user interfaces and experiences
+Security Engineer,CyberSec Inc,Washington DC,linux,python,networking,security,penetration testing,Ensure application security
+QA Engineer,Quality First,Atlanta GA,selenium,python,java,testing,automation,Automate testing processes
+Product Manager,Innovation Labs,San Jose CA,agile,scrum,jira,product management,communication,Lead product development
+Business Analyst,Consulting Group,Philadelphia PA,sql,excel,tableau,data analysis,communication,Analyze business requirements
+AI Research Scientist,Research Institute,Cambridge MA,python,tensorflow,pytorch,deep learning,research,Conduct AI research
+Blockchain Developer,Crypto Solutions,Austin TX,solidity,ethereum,web3,javascript,blockchain,Develop blockchain applications
+Game Developer,Gaming Studios,Los Angeles CA,c++,unity,unreal engine,c#,game development,Create video games
+Systems Administrator,IT Services,Houston TX,linux,windows,networking,bash,powershell,Manage IT infrastructure

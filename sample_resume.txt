@@ -1,0 +1,69 @@
+JOHN DOE
+john.doe@email.com | (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5 years of expertise in full-stack development, 
+cloud technologies, and agile methodologies. Proven track record of delivering 
+scalable web applications and leading development teams.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, TypeScript, Java, C++
+• Frontend: React, Angular, Vue.js, HTML, CSS, Bootstrap
+• Backend: Node.js, Django, Flask, Express.js, REST API
+• Databases: PostgreSQL, MySQL, MongoDB, Redis
+• Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD
+• Tools: Git, Jira, Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Innovations Inc. | San Francisco, CA
+January 2021 - Present
+• Led development of microservices architecture serving 1M+ users
+• Implemented RESTful APIs using Python Django and Node.js Express
+• Deployed applications on AWS using Docker and Kubernetes
+• Reduced deployment time by 60% through CI/CD automation
+• Mentored junior developers and conducted code reviews
+
+Software Developer | Digital Solutions Corp | New York, NY
+June 2019 - December 2020
+• Developed responsive web applications using React and TypeScript
+• Integrated third-party APIs and payment gateways
+• Optimized database queries reducing response time by 40%
+• Participated in agile sprint planning and daily standups
+• Collaborated with cross-functional teams
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Technology | 2015 - 2019
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• Microsoft Certified: Azure Developer Associate
+• Certified Scrum Master (CSM)
+
+PROJECTS
+
+E-Commerce Platform
+• Built full-stack application using React, Node.js, and MongoDB
+• Implemented secure authentication with JWT and OAuth
+• Integrated Stripe payment processing
+• Tech Stack: React, Node.js, Express, MongoDB, Docker
+
+AI Chatbot Application
+• Developed intelligent chatbot using Python and TensorFlow
+• Implemented natural language processing for intent recognition
+• Deployed on AWS Lambda with API Gateway
+• Tech Stack: Python, TensorFlow, AWS, REST API
+
+ACHIEVEMENTS
+• Increased application performance by 70% through code optimization
+• Successfully delivered 15+ projects on time and within budget
+• Reduced bug count by 50% through comprehensive testing strategies
+• Awarded "Employee of the Year" 2022
+
+LANGUAGES
+• English (Native)
+• Spanish (Professional Working Proficiency)
